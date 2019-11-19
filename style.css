@@ -1,0 +1,30 @@
+body {
+  background-color: #3498DB
+    }
+
+
+.p1{
+  text-align:center;
+  color:#E74C3C; 
+  font-family:Comic Sans MS; 
+  font-size:30px;"
+}
+.p2 {
+   text-align:center;
+  color:#F7DC6F; 
+  font-family:Helvetica; 
+  font-size:20px;"
+}
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #00FFFF;
+}
+.container {
+  
